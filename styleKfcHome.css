@@ -1,0 +1,20 @@
+.title_content{
+    text-align: center;
+    font-size:40px;
+}
+
+.table_style{
+    border: 1px;
+    width: 900px;
+    height: 800px;
+    table-layout: center;
+    text-align: center; 
+    border-width: thin;
+    border-color: black;
+    color: rgb(24, 99, 237);
+}
+
+/* div .content{ 
+    color: white;
+    background-color:brown;
+} */
